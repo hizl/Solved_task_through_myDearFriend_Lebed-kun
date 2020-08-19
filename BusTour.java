@@ -24,7 +24,6 @@
  * Will crash on bridge 2
  **/
 
-
 package com.company.dev.ar;
 
 import java.util.*;
